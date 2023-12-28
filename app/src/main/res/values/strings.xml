@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">ComputerVoiceSystemsTest</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="filmPoster">filmPoster</string>
+    <string name="nameWithYear">nameWithYear</string>
+    <string name="durationWithGenre">durationWithGenre</string>
+    <string name="on_my_watchlist">ON MY WATCHLIST</string>
+    <string name="movies">Movies</string>
+
+    <string-array name="spinnerModes">
+        <item>Sort</item>
+        <item>Title</item>
+        <item>Released Date</item>
+        <item>Cancel</item>
+    </string-array>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="app_widget_description">This is an app widget description</string>
+    <string name="arrow_back">arrow_back</string>
+    <string name="remove_from_watchlist">REMOVE FROM WATCHLIST</string>
+    <string name="add_to_watchlist">+ADD TO WATCHLIST</string>
+    <string name="watch_trailer">WATCH TRAILER</string>
+    <string name="short_description">Short description</string>
+    <string name="description">description</string>
+    <string name="details">Details</string>
+    <string name="genre">Genre</string>
+    <string name="genres">genres</string>
+    <string name="released_date">Released date</string>
+    <string name="rating">rating</string>
+</resources>
